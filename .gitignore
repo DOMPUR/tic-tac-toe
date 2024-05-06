@@ -1,1 +1,5 @@
-bin
+# Wyklucz pliki binarne
+*.exe
+*.dll
+*.so
+*.dylib
